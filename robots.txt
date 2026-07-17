@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://rafael-valenca.vercel.app/sitemap.xml
